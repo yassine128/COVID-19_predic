@@ -1,4 +1,4 @@
-# COVID-19_predic
+# COVID-19_predic (Created by Yassine Seddaoui)
 How to install this program <br />
 1-``git clone https://github.com/yassine128/COVID-19_predic.git``<br />
 2- Go in the directory with cd <br />
