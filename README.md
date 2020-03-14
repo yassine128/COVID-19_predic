@@ -10,4 +10,4 @@ How to install this program <br />
 Enjoy!<br />
 
 # Data source:
-[I'm an inline-style link](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
+[Data Source: Kaggle](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
