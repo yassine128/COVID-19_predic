@@ -56,7 +56,7 @@ model.score(X, y)
 
 def survie(model):
     gender = int(input('What is your sex? [male/female][0/1]: '))
-    age = int(input('What is your age?: '))
+    age = int(input('How old are you?: '))
     x = np.array([gender, age]).reshape(1, 2)
     predic = model.predict(x)
     test = model.predict_proba(x).T
