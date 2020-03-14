@@ -8,3 +8,6 @@ How to install this program <br />
   ``pip install seaborn``<br />
 4- ``python covid-19_predic.py``<br />
 Enjoy!<br />
+
+# Data source:
+[I'm an inline-style link](https://www.kaggle.com/sudalairajkumar/novel-corona-virus-2019-dataset)
